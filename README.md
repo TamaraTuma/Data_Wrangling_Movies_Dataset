@@ -7,4 +7,4 @@ The goal of data cleaning is to enhance the dataset's quality, ensuring it is ac
 3. **Dealing with Duplicates**: Checking for and remove any duplicate entries from the dataset, as they can lead to biased analysis and inflate certain observations.
 4. **Data Type Conversion**: I ensured that each attribute is in the correct data type. For example, dates should be converted to datetime objects, and numerical data should be converted to appropriate numerical formats.
 
-To view the documentation of the data cleaning process, [Click Here] (http://localhost:8888/notebooks/Data%20Wrangling-%20Movies%20.ipynb.com)
+To view the documentation of the data cleaning process, click [Here] (http://localhost:8888/notebooks/Data%20Wrangling-%20Movies%20.ipynb)
